@@ -1,1 +1,3 @@
-Here is my new text file
+Here is my new text file - First commit
+
+This sentence indicates there are changes made before the second commit has been made. - Second commit
