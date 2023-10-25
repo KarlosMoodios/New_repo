@@ -1,3 +1,5 @@
 Here is my new text file - First commit
 
 This sentence indicates there are changes made before the second commit has been made. - Second commit
+
+This sentence is being edited via the git-hub file editor so I can demonstrate to myself how I would need to fetch then pull before working with the file. - Third commit
